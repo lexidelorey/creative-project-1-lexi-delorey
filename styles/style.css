@@ -157,6 +157,10 @@ body {
   border: 10px;
 }
 
+.cimage {
+  width: 7%;
+}
+
 footer {
   box-sizing: border-box;
   text-align: center;
